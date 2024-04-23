@@ -1,0 +1,252 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Acer\\Desktop\\Kamp\\WebApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A808AC2E-094A-49DE-BF07-7C7AF30E6DE5}|WebApi.csproj|c:\\users\\acer\\desktop\\kamp\\webapi\\controllers\\brandscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A808AC2E-094A-49DE-BF07-7C7AF30E6DE5}|WebApi.csproj|solutionrelative:controllers\\brandscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A808AC2E-094A-49DE-BF07-7C7AF30E6DE5}|WebApi.csproj|c:\\users\\acer\\desktop\\kamp\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A808AC2E-094A-49DE-BF07-7C7AF30E6DE5}|WebApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB422FAB-3B80-43AD-8C9F-B9C44F82A1B9}|..\\Business\\Business.csproj|c:\\users\\acer\\desktop\\kamp\\business\\dtos\\responses\\createdbrandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB422FAB-3B80-43AD-8C9F-B9C44F82A1B9}|..\\Business\\Business.csproj|c:\\users\\acer\\desktop\\kamp\\business\\dtos\\requests\\createbrandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB422FAB-3B80-43AD-8C9F-B9C44F82A1B9}|..\\Business\\Business.csproj|c:\\users\\acer\\desktop\\kamp\\business\\concretes\\brandmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB422FAB-3B80-43AD-8C9F-B9C44F82A1B9}|..\\Business\\Business.csproj|c:\\users\\acer\\desktop\\kamp\\business\\dtos\\responses\\getallbrandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66CBE89D-E215-47AC-AC3B-8E4083B3124C}|..\\DataAccess\\DataAccess.csproj|c:\\users\\acer\\desktop\\kamp\\dataaccess\\abstracts\\ibranddal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66CBE89D-E215-47AC-AC3B-8E4083B3124C}|..\\DataAccess\\DataAccess.csproj|c:\\users\\acer\\desktop\\kamp\\dataaccess\\concretes\\branddal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB422FAB-3B80-43AD-8C9F-B9C44F82A1B9}|..\\Business\\Business.csproj|c:\\users\\acer\\desktop\\kamp\\business\\abstracts\\ibrandservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1BA5C65-615A-4C56-9CCE-33A51E3D3D56}|..\\Core\\Core.csproj|c:\\users\\acer\\desktop\\kamp\\core\\entities\\baseentities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F6C9091-4A61-4505-B01B-121F5ABDE4B0}|..\\Entities\\Entities.csproj|c:\\users\\acer\\desktop\\kamp\\entities\\concretes\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB422FAB-3B80-43AD-8C9F-B9C44F82A1B9}|..\\Business\\Business.csproj|c:\\users\\acer\\desktop\\kamp\\business\\business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1BA5C65-615A-4C56-9CCE-33A51E3D3D56}|..\\Core\\Core.csproj|c:\\users\\acer\\desktop\\kamp\\core\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66CBE89D-E215-47AC-AC3B-8E4083B3124C}|..\\DataAccess\\DataAccess.csproj|c:\\users\\acer\\desktop\\kamp\\dataaccess\\dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F6C9091-4A61-4505-B01B-121F5ABDE4B0}|..\\Entities\\Entities.csproj|c:\\users\\acer\\desktop\\kamp\\entities\\entities.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\Kamp\\WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\Kamp\\WebApi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T16:54:41.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BrandsController.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\Kamp\\WebApi\\Controllers\\BrandsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BrandsController.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\Kamp\\WebApi\\Controllers\\BrandsController.cs",
+              "RelativeToolTip": "Controllers\\BrandsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T07:40:51.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BrandManager.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\Kamp\\Business\\Concretes\\BrandManager.cs",
+              "RelativeDocumentMoniker": "..\\Business\\Concretes\\BrandManager.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\Kamp\\Business\\Concretes\\BrandManager.cs",
+              "RelativeToolTip": "..\\Business\\Concretes\\BrandManager.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABcAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T18:51:22.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreateBrandRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\Kamp\\Business\\Dtos\\Requests\\CreateBrandRequest.cs",
+              "RelativeDocumentMoniker": "..\\Business\\Dtos\\Requests\\CreateBrandRequest.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\Kamp\\Business\\Dtos\\Requests\\CreateBrandRequest.cs",
+              "RelativeToolTip": "..\\Business\\Dtos\\Requests\\CreateBrandRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T18:35:00.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreatedBrandResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\Kamp\\Business\\Dtos\\Responses\\CreatedBrandResponse.cs",
+              "RelativeDocumentMoniker": "..\\Business\\Dtos\\Responses\\CreatedBrandResponse.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\Kamp\\Business\\Dtos\\Responses\\CreatedBrandResponse.cs",
+              "RelativeToolTip": "..\\Business\\Dtos\\Responses\\CreatedBrandResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T18:36:26.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GetAllBrandResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\Kamp\\Business\\Dtos\\Responses\\GetAllBrandResponse.cs",
+              "RelativeDocumentMoniker": "..\\Business\\Dtos\\Responses\\GetAllBrandResponse.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\Kamp\\Business\\Dtos\\Responses\\GetAllBrandResponse.cs",
+              "RelativeToolTip": "..\\Business\\Dtos\\Responses\\GetAllBrandResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T07:34:00.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IBrandServices.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\Kamp\\Business\\Abstracts\\IBrandServices.cs",
+              "RelativeDocumentMoniker": "..\\Business\\Abstracts\\IBrandServices.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\Kamp\\Business\\Abstracts\\IBrandServices.cs",
+              "RelativeToolTip": "..\\Business\\Abstracts\\IBrandServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T18:24:35.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IBrandDal.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\Kamp\\DataAccess\\Abstracts\\IBrandDal.cs",
+              "RelativeDocumentMoniker": "..\\DataAccess\\Abstracts\\IBrandDal.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\Kamp\\DataAccess\\Abstracts\\IBrandDal.cs",
+              "RelativeToolTip": "..\\DataAccess\\Abstracts\\IBrandDal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T18:47:21.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BrandDal.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\Kamp\\DataAccess\\Concretes\\BrandDal.cs",
+              "RelativeDocumentMoniker": "..\\DataAccess\\Concretes\\BrandDal.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\Kamp\\DataAccess\\Concretes\\BrandDal.cs",
+              "RelativeToolTip": "..\\DataAccess\\Concretes\\BrandDal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T18:49:29.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BaseEntities.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\Kamp\\Core\\Entities\\BaseEntities.cs",
+              "RelativeDocumentMoniker": "..\\Core\\Entities\\BaseEntities.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\Kamp\\Core\\Entities\\BaseEntities.cs",
+              "RelativeToolTip": "..\\Core\\Entities\\BaseEntities.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T18:41:37.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\Kamp\\Core\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\Core\\Class1.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\Kamp\\Core\\Class1.cs",
+              "RelativeToolTip": "..\\Core\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T18:40:37.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Brand.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\Kamp\\Entities\\Concretes\\Brand.cs",
+              "RelativeDocumentMoniker": "..\\Entities\\Concretes\\Brand.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\Kamp\\Entities\\Concretes\\Brand.cs",
+              "RelativeToolTip": "..\\Entities\\Concretes\\Brand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T18:36:18.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Business.csproj",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\Kamp\\Business\\Business.csproj",
+              "RelativeDocumentMoniker": "..\\Business\\Business.csproj",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\Kamp\\Business\\Business.csproj",
+              "RelativeToolTip": "..\\Business\\Business.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-03T18:32:06.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DataAccess.csproj",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\Kamp\\DataAccess\\DataAccess.csproj",
+              "RelativeDocumentMoniker": "..\\DataAccess\\DataAccess.csproj",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\Kamp\\DataAccess\\DataAccess.csproj",
+              "RelativeToolTip": "..\\DataAccess\\DataAccess.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-03T18:31:58.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Entities.csproj",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\Kamp\\Entities\\Entities.csproj",
+              "RelativeDocumentMoniker": "..\\Entities\\Entities.csproj",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\Kamp\\Entities\\Entities.csproj",
+              "RelativeToolTip": "..\\Entities\\Entities.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-03T18:31:00.836Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

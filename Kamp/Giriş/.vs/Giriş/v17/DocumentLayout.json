@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Acer\\Desktop\\Kamp\\Giri\u015F\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A4A5D955-3209-4C38-B8B3-C7523B87DE74}|Giris.csproj|c:\\users\\acer\\desktop\\kamp\\giri\u015F\\business\\coursemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4A5D955-3209-4C38-B8B3-C7523B87DE74}|Giris.csproj|solutionrelative:business\\coursemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4A5D955-3209-4C38-B8B3-C7523B87DE74}|Giris.csproj|c:\\users\\acer\\desktop\\kamp\\giri\u015F\\dataaccess\\concretes\\coursedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4A5D955-3209-4C38-B8B3-C7523B87DE74}|Giris.csproj|solutionrelative:dataaccess\\concretes\\coursedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4A5D955-3209-4C38-B8B3-C7523B87DE74}|Giris.csproj|c:\\users\\acer\\desktop\\kamp\\giri\u015F\\dataaccess\\abstracts\\icoursedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4A5D955-3209-4C38-B8B3-C7523B87DE74}|Giris.csproj|solutionrelative:dataaccess\\abstracts\\icoursedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4A5D955-3209-4C38-B8B3-C7523B87DE74}|Giris.csproj|c:\\users\\acer\\desktop\\kamp\\giri\u015F\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4A5D955-3209-4C38-B8B3-C7523B87DE74}|Giris.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4A5D955-3209-4C38-B8B3-C7523B87DE74}|Giris.csproj|c:\\users\\acer\\desktop\\kamp\\giri\u015F\\entities\\individualcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4A5D955-3209-4C38-B8B3-C7523B87DE74}|Giris.csproj|solutionrelative:entities\\individualcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4A5D955-3209-4C38-B8B3-C7523B87DE74}|Giris.csproj|c:\\users\\acer\\desktop\\kamp\\giri\u015F\\entities\\coorporatecustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4A5D955-3209-4C38-B8B3-C7523B87DE74}|Giris.csproj|solutionrelative:entities\\coorporatecustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4A5D955-3209-4C38-B8B3-C7523B87DE74}|Giris.csproj|c:\\users\\acer\\desktop\\kamp\\giri\u015F\\entities\\basecustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4A5D955-3209-4C38-B8B3-C7523B87DE74}|Giris.csproj|solutionrelative:entities\\basecustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4A5D955-3209-4C38-B8B3-C7523B87DE74}|Giris.csproj|c:\\users\\acer\\desktop\\kamp\\giri\u015F\\entities\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4A5D955-3209-4C38-B8B3-C7523B87DE74}|Giris.csproj|solutionrelative:entities\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CourseDal.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\Kamp\\Giri\u015F\\DataAccess\\Concretes\\CourseDal.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Concretes\\CourseDal.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\Kamp\\Giri\u015F\\DataAccess\\Concretes\\CourseDal.cs",
+              "RelativeToolTip": "DataAccess\\Concretes\\CourseDal.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T18:48:26.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\Kamp\\Giri\u015F\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\Kamp\\Giri\u015F\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T06:45:01.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CourseManager.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\Kamp\\Giri\u015F\\Business\\CourseManager.cs",
+              "RelativeDocumentMoniker": "Business\\CourseManager.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\Kamp\\Giri\u015F\\Business\\CourseManager.cs",
+              "RelativeToolTip": "Business\\CourseManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T06:32:51.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ICourseDal.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\Kamp\\Giri\u015F\\DataAccess\\Abstracts\\ICourseDal.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Abstracts\\ICourseDal.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\Kamp\\Giri\u015F\\DataAccess\\Abstracts\\ICourseDal.cs",
+              "RelativeToolTip": "DataAccess\\Abstracts\\ICourseDal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T19:10:00.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BaseCustomer.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\Kamp\\Giri\u015F\\Entities\\BaseCustomer.cs",
+              "RelativeDocumentMoniker": "Entities\\BaseCustomer.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\Kamp\\Giri\u015F\\Entities\\BaseCustomer.cs",
+              "RelativeToolTip": "Entities\\BaseCustomer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T06:42:47.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CoorporateCustomer.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\Kamp\\Giri\u015F\\Entities\\CoorporateCustomer.cs",
+              "RelativeDocumentMoniker": "Entities\\CoorporateCustomer.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\Kamp\\Giri\u015F\\Entities\\CoorporateCustomer.cs",
+              "RelativeToolTip": "Entities\\CoorporateCustomer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T06:48:07.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IndividualCustomer.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\Kamp\\Giri\u015F\\Entities\\IndividualCustomer.cs",
+              "RelativeDocumentMoniker": "Entities\\IndividualCustomer.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\Kamp\\Giri\u015F\\Entities\\IndividualCustomer.cs",
+              "RelativeToolTip": "Entities\\IndividualCustomer.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T06:35:01.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\Kamp\\Giri\u015F\\Entities\\Course.cs",
+              "RelativeDocumentMoniker": "Entities\\Course.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\Kamp\\Giri\u015F\\Entities\\Course.cs",
+              "RelativeToolTip": "Entities\\Course.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T18:07:29.734Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

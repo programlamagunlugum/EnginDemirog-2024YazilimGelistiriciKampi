@@ -1,0 +1,14 @@
+C:\Users\Acer\Desktop\Kamp\Giriş\bin\Debug\net6.0\Giris.exe
+C:\Users\Acer\Desktop\Kamp\Giriş\bin\Debug\net6.0\Giris.deps.json
+C:\Users\Acer\Desktop\Kamp\Giriş\bin\Debug\net6.0\Giris.runtimeconfig.json
+C:\Users\Acer\Desktop\Kamp\Giriş\bin\Debug\net6.0\Giris.dll
+C:\Users\Acer\Desktop\Kamp\Giriş\bin\Debug\net6.0\Giris.pdb
+C:\Users\Acer\Desktop\Kamp\Giriş\obj\Debug\net6.0\Giris.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\Kamp\Giriş\obj\Debug\net6.0\Giris.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\Kamp\Giriş\obj\Debug\net6.0\Giris.AssemblyInfo.cs
+C:\Users\Acer\Desktop\Kamp\Giriş\obj\Debug\net6.0\Giris.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\Kamp\Giriş\obj\Debug\net6.0\Giris.dll
+C:\Users\Acer\Desktop\Kamp\Giriş\obj\Debug\net6.0\refint\Giris.dll
+C:\Users\Acer\Desktop\Kamp\Giriş\obj\Debug\net6.0\Giris.pdb
+C:\Users\Acer\Desktop\Kamp\Giriş\obj\Debug\net6.0\Giris.genruntimeconfig.cache
+C:\Users\Acer\Desktop\Kamp\Giriş\obj\Debug\net6.0\ref\Giris.dll

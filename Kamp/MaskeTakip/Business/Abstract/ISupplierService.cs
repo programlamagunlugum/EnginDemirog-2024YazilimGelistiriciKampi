@@ -1,0 +1,13 @@
+﻿using Entities.Concrate;
+using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace Business.Abstract
+{
+    public interface ISupplierService
+    {
+        void GiveMask(Person person);
+
+    }
+}
